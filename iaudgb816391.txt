@@ -1,0 +1,4 @@
+precission
+accuracy
+true positive
+false negative
